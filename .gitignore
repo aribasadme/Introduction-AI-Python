@@ -1,0 +1,6 @@
+# Ignore specific file extensions
+*.zip
+*.csv
+
+# Ignore lecture source code
+/0.Search/maze
